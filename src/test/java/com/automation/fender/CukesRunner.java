@@ -10,4 +10,5 @@ import cucumber.api.junit.*;
 	features={"src/test/resources"}
 	)
 
+// Empty Class
 public class CukesRunner {}
